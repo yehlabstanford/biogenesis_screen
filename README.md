@@ -1,7 +1,7 @@
 # biogenesis_screen
 
 Files included in repository:
-ssra_pipeline_final.py  - Custom script written for NGS analysis
+ssra_pipeline_final.py  - Custom script written for NGS analysis /n
 Parent_IDs.csv          - Example of ID file for parental samples and their corresponding fastq file names
 Sample_IDs.csv          - Example of ID file for mutant samples and their corresponding fastq file names
 rif+stev+EMP.txt        - Contains Pf gene ID’s for hyper-variable gene families
