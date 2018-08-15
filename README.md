@@ -2,8 +2,8 @@
 
 Files included in repository:  
 ssra_pipeline_final.py  - Custom script written for NGS analysis  
-Parent_IDs.csv          - Example of ID file for parental samples and their corresponding fastq file names  
-Sample_IDs.csv          - Example of ID file for mutant samples and their corresponding fastq file names  
+Parent_IDs.csv          - Example ID file for parental samples and their corresponding fastq file names  
+Sample_IDs.csv          - Example ID file for mutant samples and their corresponding fastq file names  
 rif+stev+EMP.txt        - Contains Pf gene ID’s for hyper-variable gene families  
 
 
